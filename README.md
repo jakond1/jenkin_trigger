@@ -1,2 +1,1 @@
 # jenkin_trigger
-test
