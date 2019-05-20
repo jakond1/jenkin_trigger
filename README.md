@@ -1,2 +1,2 @@
 # Jenkin_trigger
-jjg
+Add this line to test auto trigger
