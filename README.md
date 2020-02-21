@@ -1,2 +1,2 @@
 # Jenkin_trigger
-Trigger a jenkins job using git token
+Trigger a jenkins job using git token.
